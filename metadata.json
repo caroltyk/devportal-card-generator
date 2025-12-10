@@ -1,0 +1,5 @@
+{
+  "name": "DevCard Gen",
+  "description": "A specialized tool for generating perfectly sized catalogue (388x180px) and product page (590x268px) images for developer portals using Google Gemini.",
+  "requestFramePermissions": []
+}
